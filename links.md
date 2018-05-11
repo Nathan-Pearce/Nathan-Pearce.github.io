@@ -4,16 +4,12 @@ title: Links
 permalink: /links/
 ---
 
-1. [Fortnite][link1]: [link1](https://www.epicgames.com/fortnite/en-US/battle-pass/season-4)
+1. Link One: [Fortnite](https://www.epicgames.com/fortnite/en-US/battle-pass/season-4)
 
-2. [Marvel][link2]
-[link2]: http://marvel.com/movies
+2. Link Two: [Marvel](http://marvel.com/movies)
 
-3. [Ebay][link3]
-[link3]: https://www.ebay.com/
+3. Link Three: [Ebay](https://www.ebay.com/)
 
-4. [vcs][link4]
-[link4]: https://learn.vcs.net/
+4. Link Four: [Learn@VCS](https://learn.vcs.net/)
 
-5. [YouTube][link5]
-[link5]: https://www.youtube.com/
+5. Link Five: [YouTube](https://www.youtube.com/)
