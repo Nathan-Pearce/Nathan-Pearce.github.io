@@ -2,6 +2,7 @@
 layout: post
 title:  "Markdown Post"
 date:   2018-05-11 10:30:00 -0700
+author: Nathan Pearce
 categories: uncagetorized
 ---
 
