@@ -1,0 +1,101 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* My Color Palette
+Color 1: rgba(0,85,255,1.00)
+Color 2: #B21400
+Color 3: #00D34A
+*/
+
+#footer p {
+	text-align:right;
+}
+
+/**********************************
+
+	 TRANSPARENT BACKGROUND
+	 
+**********************************/
+
+
+
+
+
+/**********************************
+
+			  BASIC STRUCTURE
+			  
+**********************************/
+
+#wrapper {
+		width: 960px;
+		padding: 5px;
+		margin: 20px auto;
+}
+
+#header {
+}
+
+#sidebar {
+		float: left;
+		width: 300px;
+}
+
+#content {
+		float: right;
+		width: 600px;		
+}
+
+#footer {
+		clear: both;
+}
+
+/**********************************
+
+		    RESPONSIVE WIDTH
+		
+**********************************/
+
+@media screen and (max-width: 980px) {
+	#wrapper {
+		width: 94%;
+	}
+	#content {
+		width: 65%;
+	}
+	#sidebar {
+		width: 30%;
+	}
+}
+
+@media screen and (max-width: 700px) {
+	#content, #sidebar {
+		width: auto;
+		float: none;
+	}
+	#header {
+		height: auto;
+	}
+}
+
+/**********************************
+
+	        COLOR AND FONTS
+	 
+**********************************/
+
+body {
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	color: rgba(0,85,255,1.00);
+	background-color: #B21400;
+}
+
+#header, #sidebar, #content, #footer {
+		background-color: rgba(214,214,214,0.95);
+		margin-bottom: 4px;
+		border: ridge;
+		border-radius: 5px;
+		border-color: rgba(85,245,100,0.75);
+		padding-left: 4px;
+		padding-right: 4px;
+}
