@@ -8,5 +8,5 @@ categories: uncategorized
 
 When I was in 8th grade at Valley Christian Junior High School, I took an Intro to Programming course where I learned CSS, HTML, and JavaScript.
 Here is a link to my website that I made:
-[Project Site][url]
+[website][url]
 [url]: /website/
